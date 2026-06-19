@@ -1,3 +1,4 @@
+import "./index.css";
 import { useState, useCallback } from "react";
 import { useWebSocket } from "./useWebSocket";
 import { Card } from "./Card";
